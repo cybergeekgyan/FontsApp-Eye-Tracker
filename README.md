@@ -1,6 +1,8 @@
 # FontsApp-Eye-Tracker
 
-### SPECIFICATION OF THE APP
+ <img align="right" width="400" height="700" src="https://github.com/cybergeekgyan/FontsApp-Eye-Tracker/blob/main/img/homescreen.png">
+
+### SPECIFICATION OF THE APP 
  
 The app may be called the “Fonts” app.
  
@@ -31,7 +33,10 @@ The app allows the user to select typeface, font size and line spacing. Three dr
  
 There should be a “Next” button at the bottom of the first screen.
  
- 
+ <img align="right" width="400" height="700" src="https://github.com/cybergeekgyan/FontsApp-Eye-Tracker/blob/main/img/firstscreen.png">
+
+
+<br> 
 --> **SECOND SCREEN**
  
  - The app will display a paragraph of text with 100 to 110 words. 
@@ -48,7 +53,7 @@ There should be a “Next” button at the bottom of the first screen.
  - When the child ends, the observer will press the Stop button. 
  - All observations will be made during this period only.
  
- 
+ </br>
  
 **THIRD SCREEN**
  
@@ -59,3 +64,4 @@ There should be a “Next” button at the bottom of the first screen.
  
 At the bottom, there will be a button “Another Trial” which will take the user to the first screen.
  
+  <img align="right" width="400" height="700" src="https://github.com/cybergeekgyan/FontsApp-Eye-Tracker/blob/main/img/secondscreen.png">
